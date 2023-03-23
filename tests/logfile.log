@@ -1,0 +1,34 @@
+2023-03-15 22:00:36,346 :INFO:test_e2e:&(message)s
+2023-03-15 22:00:36,391 :INFO:test_e2e:&(message)s
+2023-03-15 22:00:36,412 :INFO:test_e2e:&(message)s
+2023-03-15 22:00:36,430 :INFO:test_e2e:&(message)s
+2023-03-15 22:00:36,451 :INFO:test_e2e:&(message)s
+2023-03-15 22:00:40,662 :INFO:test_e2e:&(message)s
+2023-03-15 22:00:47,189 :INFO:test_e2e:&(message)s
+2023-03-15 22:02:12,646 :INFO:test_e2e:getting all items
+2023-03-15 22:02:16,959 :INFO:test_e2e:entering country name india
+2023-03-15 22:02:23,356 :INFO:test_e2e:text receive from the application
+2023-03-19 21:42:32,375 :INFO:test_e2e:getting all items
+2023-03-19 21:42:36,682 :INFO:test_e2e:entering country name india
+2023-03-19 21:42:42,970 :INFO:test_e2e:text receive from the application
+2023-03-19 21:44:05,078 :INFO:test_e2e:getting all items
+2023-03-19 21:44:09,375 :INFO:test_e2e:entering country name india
+2023-03-19 21:44:15,654 :INFO:test_e2e:text receive from the application
+2023-03-19 21:46:20,706 :INFO:test_e2e:getting all items
+2023-03-19 21:46:24,982 :INFO:test_e:2e:entering country name india
+2023-03-19 21:46:31,272 :INFO:test_e2etext receive from the application
+2023-03-19 21:50:29,239 :INFO:test_e2e:getting all items
+2023-03-19 21:50:33,509 :INFO:test_e2e:entering country name india
+2023-03-19 21:50:39,796 :INFO:test_e2e:text receive from the application
+2023-03-19 21:51:40,815 :INFO:test_e2e:getting all items
+2023-03-19 21:51:45,079 :INFO:test_e2e:entering country name india
+2023-03-19 21:51:51,360 :INFO:test_e2e:text receive from the application
+2023-03-19 21:54:54,452 :INFO:test_e2e:getting all items
+2023-03-19 21:54:58,721 :INFO:test_e2e:entering country name india
+2023-03-19 21:55:04,998 :INFO:test_e2e:text receive from the application
+2023-03-19 21:56:33,037 :INFO:test_e2e:getting all items
+2023-03-19 21:56:37,294 :INFO:test_e2e:entering country name india
+2023-03-19 21:56:43,618 :INFO:test_e2e:text receive from the application
+2023-03-19 22:15:45,297 :INFO:test_e2e:getting all items
+2023-03-19 22:15:49,591 :INFO:test_e2e:entering country name india
+2023-03-19 22:15:55,889 :INFO:test_e2e:text receive from the application
